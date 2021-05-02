@@ -143,6 +143,7 @@ h1{
 }
 #my-projects{
        	padding-bottom: 2rem;
+	padding-top: 1rem;
 }
 .my-p{
    padding-top: 1%;
@@ -249,6 +250,10 @@ h4{
 }
 .logos{
   padding:0 2%;
+}
+#projects{
+	padding-top: 1rem;
+	padding-right: 
 }
 @media (max-width:1028px) {
   #homepage{
